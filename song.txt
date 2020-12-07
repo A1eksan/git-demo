@@ -6,3 +6,5 @@ ffff ffff
 git gui
 
 delaem otkat commita 
+
+popitka nomer dwa
