@@ -3,6 +3,4 @@ eeee eeee
 rrrr rrrr
 ffff ffff
 
-git gui
-
-delaem otkat commita 
+dobawliaem na remote ------------
